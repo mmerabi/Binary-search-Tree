@@ -1,2 +1,3 @@
 # Binary-search-Tree
-CSUN 182 BST
+
+Simple BST skeleton with some basic functions
