@@ -1,6 +1,3 @@
-//Michael Merabi CS182
-//Lab Exam #3
-
 public class BST {
 
 		public static  Node root;
@@ -135,11 +132,6 @@ public class BST {
 				display(root.right);
 			}
 		}
-/*===============================================
-                         ==================================================
-               CODE STARTS HERE
-                =========================================================*/
-                
                 
      // A utility function to do inorder traversal of BST EX: 20, 30, 40, 50
                 
